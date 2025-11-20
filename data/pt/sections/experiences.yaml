@@ -1,0 +1,54 @@
+section:
+  name: Experiência
+  id: experiences
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  template: sections/experiences.html
+
+experiences:
+  - company:
+      name: PRODAM
+      location: São Paulo
+      overview: ""
+    positions:
+      - designation: Analista de Sistemas
+        start: Out 2014
+        end: O momento
+        responsibilities:
+          - Análise e levantamento de requisitos.
+          - Modelagem de funcionalidades de sistemas e banco de dados.
+          - Programação de rotinas, webservices e outras funcionalidades utilizando PHP.
+
+  - company:
+      name: IFSP
+      location: São Paulo, São Paulo, Brasil
+      overview: ""
+    positions:
+      - designation: Técnico de Tecnologia da Informação
+        start: Mai 2013
+        end: Set 2014
+        responsibilities:
+          - Configuração de servidores Linux, criação de regras em firewall.
+
+  - company:
+      name: TRS Sistemas Soluções em Informática
+      location: Guarulhos, São Paulo, Brasil
+      overview: ""
+    positions:
+      - designation: Estagiário
+        start: Jun 2012
+        end: Mai 2013
+        responsibilities:
+          - Suporte técnico na utilização do sistema de ERP da empresa.
+
+  - company:
+      name: DC2 Solutions
+      location: Guarulhos, São Paulo, Brasil
+      overview: ""
+    positions:
+      - designation: Analista de sistema trainee
+        start: Nov 2010
+        end: Out 2011
+        responsibilities:
+          - Criação de páginas Web utilizando HTML, CSS e PHP.

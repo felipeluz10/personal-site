@@ -1,0 +1,32 @@
+section:
+  name: Competências
+  id: skills
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  template: sections/skills.html
+  filter: false
+
+skills:
+  - name: CSS Flexbox
+  - name: API REST
+  - name: Python
+  - name: SOAP
+  - name: SQL
+  - name: XML
+  - name: Linux
+  - name: Microsoft Windows
+  - name: MySQL
+  - name: Microsoft SQL Server
+  - name: Sistemas operacionais
+  - name: HTML
+  - name: Desenvolvimento de software
+  - name: Java
+  - name: PHP
+  - name: UML
+  - name: JavaScript
+  - name: HTML5
+  - name: Microsoft Visual Studio
+  - name: Visual Studio Code
+  - name: CSS
+  - name: Transact-SQL

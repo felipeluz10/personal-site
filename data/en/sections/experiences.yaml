@@ -1,0 +1,54 @@
+section:
+  name: Experience
+  id: experiences
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  template: sections/experiences.html
+
+experiences:
+  - company:
+      name: PRODAM
+      location: São Paulo
+      overview: ""
+    positions:
+      - designation: Systems Analyst
+        start: Oct 2014
+        end: Present
+        responsibilities:
+          - Requirements analysis and gathering.
+          - System functionality and database modeling.
+          - Programming of routines, webservices, and other functionalities using PHP.
+
+  - company:
+      name: IFSP
+      location: São Paulo, São Paulo, Brazil
+      overview: ""
+    positions:
+      - designation: Information Technology Technician
+        start: May 2013
+        end: Sep 2014
+        responsibilities:
+          - Linux server configuration, firewall rule creation.
+
+  - company:
+      name: TRS Sistemas Soluções em Informática
+      location: Guarulhos, São Paulo, Brazil
+      overview: ""
+    positions:
+      - designation: Intern
+        start: Jun 2012
+        end: May 2013
+        responsibilities:
+          - Technical support for the company's ERP system usage.
+
+  - company:
+      name: DC2 Solutions
+      location: Guarulhos, São Paulo, Brazil
+      overview: ""
+    positions:
+      - designation: Trainee Systems Analyst
+        start: Nov 2010
+        end: Oct 2011
+        responsibilities:
+          - Web page creation using HTML, CSS, and PHP.

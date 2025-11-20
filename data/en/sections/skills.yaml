@@ -1,0 +1,30 @@
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  template: sections/skills.html
+  filter: false
+
+skills:
+  - name: Software Development
+  - name: Python
+  - name: SQL
+  - name: API REST
+  - name: SOAP
+  - name: PHP
+  - name: XML
+  - name: Java
+  - name: UML
+  - name: Web Development
+  - name: HTML
+  - name: CSS
+  - name: JavaScript
+  - name: Operating Systems
+  - name: Linux
+  - name: Microsoft Windows
+  - name: Microsoft SQL Server
+  - name: Transact-SQL
+  - name: PostgreSQL
+  - name: MySQL

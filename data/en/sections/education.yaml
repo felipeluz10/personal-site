@@ -1,0 +1,21 @@
+section:
+  name: Education
+  id: education
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  template: sections/education.html
+
+degrees:
+  - name: Technology in Systems Analysis and Development
+    icon: fas fa-graduation-cap
+    timeframe: 2011 - 2014
+    institution:
+      name: IFSP
+      url: "#"
+  - name: Technician in Computer Maintenance and Support
+    icon: fas fa-graduation-cap
+    timeframe: 2009 - 2010
+    institution:
+      name: IFSP - Guarulhos
+      url: "#"

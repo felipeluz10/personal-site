@@ -1,0 +1,10 @@
+name: "Felipe Luz"
+email: "felipe_meno@yahoo.com.br"
+image: "/images/author.png"
+job: "Software Engineer"
+location: "São Paulo, Brazil"
+social:
+  - icon: "github"
+    url: "https://github.com/felipluz10"
+  # - icon: "linkedin"
+  #   url: "https://linkedin.com/in/username"

@@ -1,0 +1,55 @@
+baseURL: "https://felipeluz.dev/"
+languageCode: "pt-br"
+title: "felipeluz.dev"
+theme: "toha"
+
+# Toha specific configuration
+
+# Manage languages
+# For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
+languages:
+  en:
+    languageName: English
+    weight: 1
+  pt:
+    languageName: Português
+    weight: 2
+
+# Site parameters
+params:
+  # GitHub repo URL of your site
+  gitRepo: https://github.com/felipeluz10/personal-site.github.io
+
+  # Background image of the landing page
+  background: images/site/background.png
+
+  features:
+   # Configure theme color settings
+    theme:
+      enable: true
+      services:
+        light: true # enable light theme. default "true"
+        dark: true # enable dark theme. default "true"
+        default: system # can be either light, dark or system. default "system"
+
+    # Enable portfolio section
+    portfolio:
+      enable: false
+
+    # Enable blog posts
+    blog:
+      enable: false
+
+    # Enable Table of contents in reading page
+    toc:
+      enable: true
+
+  # Configure footer
+  footer:
+    enable: false
+    
+  # Personal Information
+  author:
+    name: "Felipe Luz"
+    email: "felipe_meno@yahoo.com.br"
+    # Add more personal info in data/author.yaml
