@@ -34,7 +34,7 @@ params:
 
     # Enable portfolio section
     portfolio:
-      enable: false
+      enable: true
 
     # Enable blog posts
     blog:

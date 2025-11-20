@@ -8,7 +8,8 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Analista de Sistemas Sênior
+designation: Analista de Sistemas Sênior | Explorando Engenharia de AI & Automação
+
 # your company information
 company:
   name: PRODAM
@@ -32,9 +33,9 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://github.com/felipeluz10"
 
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/felipe-luz-3b3b3b3b/"
+# - name: LinkedIn
+#   icon: "fab fa-linkedin"
+#   url: "https://www.linkedin.com/in/felipe-luz-3b3b3b3b/"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
@@ -58,5 +59,5 @@ badges:
 
 - type: soft-skill-indicator
   name: Liderança Técnica
-  percentage: 75
+  percentage: 70
   color: orange

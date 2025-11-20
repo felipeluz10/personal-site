@@ -8,25 +8,30 @@ section:
   filter: false
 
 skills:
-  - name: CSS Flexbox
-  - name: API REST
+  # --- O Motor da IA e Backend Moderno (Topo da lista) ---
   - name: Python
-  - name: SOAP
-  - name: SQL
-  - name: XML
+  - name: PostgreSQL
+  - name: Docker
   - name: Linux
-  - name: Microsoft Windows
-  - name: MySQL
-  - name: Microsoft SQL Server
-  - name: Sistemas operacionais
-  - name: HTML
-  - name: Desenvolvimento de software
-  - name: Java
+  - name: API REST
+  - name: Git
+  - name: SQL
+
+  # --- Sua Base Sênior (O que paga as contas hoje) ---
   - name: PHP
-  - name: UML
+  - name: Microsoft SQL Server
+  - name: Transact-SQL
+  - name: MySQL
+  
+  # --- Frontend / Web (Essencial, mas secundário) ---
   - name: JavaScript
   - name: HTML5
-  - name: Microsoft Visual Studio
-  - name: Visual Studio Code
   - name: CSS
-  - name: Transact-SQL
+  
+  # --- Integração e Legado (Mostra que sabe lidar com sistemas antigos) ---
+  - name: SOAP
+  - name: XML
+  - name: UML
+  
+  # --- Ferramentas ---
+  - name: Visual Studio Code

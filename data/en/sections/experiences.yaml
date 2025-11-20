@@ -16,9 +16,11 @@ experiences:
         start: Oct 2014
         end: Present
         responsibilities:
-          - Requirements analysis and gathering.
-          - System functionality and database modeling.
-          - Programming of routines, webservices, and other functionalities using PHP.
+          - Modernization of the Official Gazette (Diário Oficial):&nbsp;Key player in the development and architecture of the city's new digital Gazette system. The project replaced legacy processes with a modern web solution, resulting in significant public budget savings through paper reduction and operational efficiency.
+
+          - High-Traffic System Engineering:&nbsp;Developed and maintained critical backend services (PHP/PostgreSQL) ensuring high availability for thousands of daily users and legal data integrity.
+
+          - Legacy Integration & Optimization:&nbsp;Led the integration between new web interfaces and legacy municipal databases, optimizing queries and ensuring data consistency across platforms.
 
   - company:
       name: IFSP

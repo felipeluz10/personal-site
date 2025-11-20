@@ -8,23 +8,30 @@ section:
   filter: false
 
 skills:
-  - name: Software Development
+  # --- O Motor da IA e Backend Moderno (Topo da lista) ---
   - name: Python
-  - name: SQL
-  - name: API REST
-  - name: SOAP
-  - name: PHP
-  - name: XML
-  - name: Java
-  - name: UML
-  - name: Web Development
-  - name: HTML
-  - name: CSS
-  - name: JavaScript
-  - name: Operating Systems
+  - name: PostgreSQL
+  - name: Docker
   - name: Linux
-  - name: Microsoft Windows
+  - name: API REST
+  - name: Git
+  - name: SQL
+
+  # --- Sua Base Sênior (O que paga as contas hoje) ---
+  - name: PHP
   - name: Microsoft SQL Server
   - name: Transact-SQL
-  - name: PostgreSQL
   - name: MySQL
+  
+  # --- Frontend / Web (Essencial, mas secundário) ---
+  - name: JavaScript
+  - name: HTML5
+  - name: CSS
+  
+  # --- Integração e Legado (Mostra que sabe lidar com sistemas antigos) ---
+  - name: SOAP
+  - name: XML
+  - name: UML
+  
+  # --- Ferramentas ---
+  - name: Visual Studio Code
