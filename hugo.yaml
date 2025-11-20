@@ -1,4 +1,4 @@
-baseURL: "https://felipeluz.dev/"
+baseURL: "https://felipeluz10.github.io"
 languageCode: "pt-br"
 title: "felipeluz.dev"
 theme: "toha"
@@ -18,7 +18,7 @@ languages:
 # Site parameters
 params:
   # GitHub repo URL of your site
-  gitRepo: https://github.com/felipeluz10/personal-site.github.io
+  gitRepo: https://felipeluz10.github.io
 
   # Background image of the landing page
   background: images/site/background.png
