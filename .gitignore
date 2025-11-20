@@ -1,18 +1,28 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# --- Hugo ---
+# Pasta de build final (Gerada automaticamente pelo GitHub Actions, não envie a local)
+public/
+# Arquivos de cache/lock do Hugo
+.hugo_build.lock
+# Recursos gerados automaticamente (imagens redimensionadas, CSS compilado)
+resources/_gen/
 
-# Other files and folders
-.settings/
+# --- Node.js / NPM ---
+# Dependências instaladas (nunca devem ser commitadas)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# --- Sistema Operacional ---
+# Mac
+.DS_Store
+# Windows
+Thumbs.db
+Desktop.ini
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# --- Editores de Código ---
+# Configurações locais do VS Code (opcional, mas recomendado para projetos pessoais)
+.vscode/
+*.swp
+*.swo
+.idea/
