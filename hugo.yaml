@@ -44,6 +44,24 @@ params:
     toc:
       enable: true
 
+    # Enable Analytics
+    analytics:
+      enable: true
+      services:
+        # Google Analytics
+        google:
+          id: G-LLZ3HL8E5P
+        # # CounterDev
+        # counterDev:
+        #   id: <your counterdev id>
+        # # GoatCounter
+        # goatCounter:
+        #   code: <your goat counter code>
+        # # Matomo / Piwik
+        # matomo:
+        #   instance: matomo.example.com
+        #   siteId: 1 # Or any other number
+
   # Configure footer
   footer:
     enable: false
